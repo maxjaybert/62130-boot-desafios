@@ -1,0 +1,58 @@
+body{
+    font-weight: lighter;
+    font-family: 'Lucida Sans'  , 'Lucida Sans Regular','Lucida Grande' , 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+header{
+    text-align: center;
+}
+
+#logo-disney{
+    width: 30%;
+    height: 25%;
+}
+   
+h1{
+    font-family:  'Lucida Sans'  , 'Lucida Sans Regular','Lucida Grande' , 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    color: #c15397;
+    text-align: center;
+    letter-spacing: 0.4cm;
+}
+p{
+    color: #3362a6;
+}
+#pop-resort{
+    float: right;
+    width: 500px;
+    height: 300px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+
+h2{
+    color: #c15397;
+    letter-spacing: 0.3cm;
+}
+
+#puerta-resort{
+    float: left;
+    width: 500px;
+    height: 300px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+#entrada-arboles{
+    float: right;
+    width: 500px;
+    height: 350px;
+    margin-left: 20px;
+    
+
+}
+
+#mickey-minnie{
+    width: 100%;
+    height: auto;
+
+}
