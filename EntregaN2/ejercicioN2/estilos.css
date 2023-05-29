@@ -1,0 +1,15 @@
+body{
+    background-color: #299688;
+    text-align: center;
+}
+header{
+    color: #fcea3d;
+    text-align: center;
+}
+main{
+    display: block;
+}
+img{
+    border: 7px solid white;
+    margin: 2px;
+}
